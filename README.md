@@ -1,4 +1,4 @@
-# Module 1: Interactive Device
+# Module 2: Interactive Device
 ## Description
 The Interactive Devices is a project in the Creative Embedded Systems (COMS BC 3930) course taught by Professor Mark Santolucito in Spring 2023. We used ESP32 TTGO T-display, a joystick and a button as the hardware for the project. An ESP32 program was written to collect sensor data and send it over to Processing, and the processing program did something interesting with it.
 
