@@ -25,7 +25,9 @@ One day I was sitting at Diana eating Diana’s build pizza. My thoughts brought
 
 ## Programming program 
 
-## Technical Challenge 
+## Technical Challenges 
+- To display emoji on the canvas, string representation of the emoji unicode should be used.
+- When the joystick was first connected, the Arduino program read the sensor inputs directly and sent corresponding x, y, z positions to the processing program. Then the processing program put the emoji at the position with corresponding x and y values. However, the first attempt didn't go so well since the emoji kept moving right to the screen although the joystick was not moved, and the emoji might float out of the canvas. By printing out the x and y values on the console, I found that the value fluctuated around 2000 although the joystick was not moved. As a result, I set a changed threshold of 100 that the emoji should move only when the position changed was larger than the threshold value. In addition, adding a constraint when displaying emoji position helps keeping the emoji on canvas without floating out.
 
 ## Additional Links
 - blog: https://www.notion.so/Module-2-Interactive-Devices-4d18e2bd3474455ebf387da37763de87?pvs=4
