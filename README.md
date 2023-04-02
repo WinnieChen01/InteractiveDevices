@@ -29,4 +29,4 @@ One day I was sitting at Diana eating Diana’s build pizza. My thoughts brought
 
 ## Additional Links
 - blog: https://www.notion.so/Module-2-Interactive-Devices-4d18e2bd3474455ebf387da37763de87?pvs=4
-- YouTube: 
+- YouTube: https://youtu.be/rEU14WnWrko (actual demo starts at 0:14)
